@@ -1,1 +1,1 @@
-# temp-lm-2024-1
+# Exercícios resolvidos de LM 2024.1 B
